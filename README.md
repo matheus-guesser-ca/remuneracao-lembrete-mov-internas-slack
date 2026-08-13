@@ -164,12 +164,6 @@ Revisar sempre que:
 - a planilha de dicas/log mudar;
 - houver nova versão publicada.
 
-## Pendências
-
-- [ ] Registrar link do workflow n8n.
-- [ ] Registrar link da planilha de log.
-- [ ] Registrar link do repositório GitHub.
-- [ ] Validar fluxo de timeout em produção.
 
 ## Documentação no Notion
 
